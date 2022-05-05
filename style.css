@@ -80,8 +80,10 @@ main {
     padding-left: 20px;
 }
 
-.name-date h3 {
+.name-date p:first-of-type {
     color: hsl(217, 19%, 35%);
+    font-size: 1em;
+    font-weight: 600;
 }
 .name-date p {
     color: hsl(212, 23%, 69%);
